@@ -20,5 +20,4 @@ SSD <- function(vector1){
 #function- SSD(c(1,2,3,4,5))
 #Answer -  10
 
-roxygenise()
-getwd()
+
