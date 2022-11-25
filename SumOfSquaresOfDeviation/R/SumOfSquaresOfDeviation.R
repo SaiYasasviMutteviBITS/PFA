@@ -15,6 +15,10 @@ SSD <- function(vector1){
   z= su-(n*(me^2))
   return(z)
 }
+ADD<-function(a,b)
+  {
+  return (a+b)
+  }
 
 #Example
 #function- SSD(c(1,2,3,4,5))
