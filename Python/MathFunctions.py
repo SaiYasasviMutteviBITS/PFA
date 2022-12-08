@@ -1,3 +1,5 @@
+#Function to calculate BMI
+
 def BMI (height,weight):
 
     bmi = weight / (height/100)**2  
@@ -11,8 +13,7 @@ def BMI (height,weight):
     else:  
         return (f"Your Body Mass Index is {bmi} You are obese.")
 
-
-
+#Function to calculate nCr 
 
 def nCr(n, r):
  
